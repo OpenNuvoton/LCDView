@@ -23,6 +23,11 @@
  * Date: 2021-03-02T17:08Z
  */
 
+/*!
+* sweetalert2 v11.19.1
+* Released under the MIT License.
+*/
+
 /*! DataTables 1.12.1
  * ©2008-2022 SpryMedia Ltd - datatables.net/license
  */
